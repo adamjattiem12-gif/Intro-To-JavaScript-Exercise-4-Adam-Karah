@@ -11,7 +11,7 @@ if (score >= passingGrade) {
 else {
   console.log("Failed");
 }
-
+//Adam: I just added the condition to check if the score is a perfect 100.
 if (score === 100) {
   console.log("Perfect score! You aced the test!");
 }
