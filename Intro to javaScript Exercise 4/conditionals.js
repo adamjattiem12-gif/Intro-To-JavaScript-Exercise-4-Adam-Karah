@@ -1,4 +1,4 @@
-//Adam: I finished assigning the variables and the if score. Need some help with the else statement. Can you help me out, Karah?
+//Adam: I finished assigning the variables. I need some help with the if and else statement. Can you help me out, Karah?
 
 let score = 75;
 const passingGrade = 60;
@@ -11,6 +11,7 @@ if (score >= passingGrade) {
 else {
   console.log("Failed");
 }
+
 if (score === 100) {
   console.log("Perfect score! You aced the test!");
 }
